@@ -1,0 +1,127 @@
+/* Calender */
+
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee:wght@400&display=swap");
+
+p {
+  margin: 0;
+}
+
+.clip-contents {
+  overflow: hidden;
+}
+
+.flex-col-hstart-vstart {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-row-vcenter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.slide-1693 {
+  padding: 284px 536px 217px 429px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0);
+  width: 1920px;
+  height: 1080px;
+}
+
+.group-463 {
+  padding: 72px 121px 87px 105px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  background-color: rgba(231, 186, 186, 1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.group-1041 {
+  padding: 15px 485px 14px 24px;
+  margin-bottom: 69px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  background-color: rgba(255, 242, 242, 1);
+  height: 91px;
+  width: fit-content;
+}
+
+.txt-759 {
+  font-size: 50px;
+  font-family: ABeeZee, sans-serif;
+  font-weight: 400;
+  color: rgba(198, 112, 112, 1);
+  word-wrap: break-word;
+}
+
+.group-042 {
+  margin-bottom: 61px;
+  box-sizing: border-box;
+  width: fit-content;
+}
+
+.group-7101 {
+  padding: 17px 33px 23px 24px;
+  margin-right: 59px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  background-color: rgba(255, 242, 242, 1);
+  width: 282px;
+  height: 100%;
+}
+
+.txt-759 {
+  font-size: 50px;
+  font-family: ABeeZee, sans-serif;
+  font-weight: 400;
+  color: rgba(198, 112, 112, 1);
+  word-wrap: break-word;
+}
+
+.ellipse-5 {
+  background-color: rgba(228, 233, 255, 1);
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  margin-right: 23px;
+}
+
+.txt-887 {
+  font-size: 50px;
+  font-family: ABeeZee, sans-serif;
+  font-weight: 400;
+  color: rgba(198, 112, 112, 1);
+  word-wrap: break-word;
+  margin-right: 39px;
+}
+
+.group-007 {
+  padding: 16px 42px 15px 43px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  background-color: rgba(189, 221, 231, 1);
+  height: 93px;
+  width: fit-content;
+}
+
+.txt-904 {
+  font-size: 50px;
+  font-family: ABeeZee, sans-serif;
+  font-weight: 400;
+  color: rgba(98, 153, 204, 1);
+  word-wrap: break-word;
+}
+
+.links:hover {
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+    cursor: pointer;
+  }

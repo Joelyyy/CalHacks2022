@@ -1,24 +1,15 @@
 import React from 'react'
 import Homepage from './Homepage'
+import Calender from './calender'
+import Groceries from './groceries';
+import Billing from './billing';
 
 function App() {
   return (
-        <Homepage />
+        <Homepage/>
   )
 }
 
 export default App;
 
-/*
-Anna's temporary sudo code
 
-function App(){
-  return (
-    <>
-    <Homepage />
-    </>
-  )
-}
-*/
-// Add slider mechanic from Homepage.js
-// href links from slider 
