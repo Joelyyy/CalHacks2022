@@ -2,6 +2,33 @@
 
 @import url("https://fonts.googleapis.com/css2?family=ABeeZee:wght@400&display=swap");
 
+ul, button{
+    font-family: ABeeZee, sans-serif;
+    font-size: 30px;
+    text-align: left;
+    margin: 10px;
+}
+
+#ItemInput{
+    height:40px;
+    font-size:14pt;
+    margin: 20px;
+
+}
+
+#ChoreInput{
+    height:40px;
+    font-size:14pt;
+    margin: 20px;
+
+}
+
+.polygon-3:hover {
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+    cursor: pointer;
+  }
+
 p {
   margin: 0;
 }
@@ -89,6 +116,7 @@ p {
   height: 718px;
   border-radius: 150px;
   width: 100%;
+  text-align: center;
 }
 
 .group-5109 {

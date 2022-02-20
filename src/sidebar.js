@@ -3,6 +3,7 @@ import React from "react"
 import Calender from "./calender"
 import Groceries from "./groceries";
 import {Link} from 'react-router-dom';
+import Homepage from "./Homepage";
 
 class Sidebar extends React.Component{
 
@@ -14,7 +15,7 @@ class Sidebar extends React.Component{
     this.notesLink = this.notesLink.bind(this);
   }
 
-    calenderLink() {
+  calenderLink() {
       <Calender />
   }
 
@@ -40,7 +41,6 @@ class Sidebar extends React.Component{
     document.body.appendChild(a);
 }
 
-
   render() {
     return (
       <div className="slide-1691 flex-col-hstart-vstart clip-contents">
@@ -56,8 +56,7 @@ class Sidebar extends React.Component{
             <p className="txt-276 links">Calender</p>
           </div>
           <div className="group-580">
-            {/* <p className="txt-276 links"></p> */}
-            <Link to="./groceries.js">Groceries & Chores</Link>
+            <p className="txt-276 links" onClick={this.groceryLink}>Groceries & Chores</p>
           </div>
           <div className="group-756">
             <p className="txt-276 links">Bills</p>

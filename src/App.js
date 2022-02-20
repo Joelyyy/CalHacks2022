@@ -6,7 +6,7 @@ import Billing from './billing';
 
 function App() {
   return (
-        <Homepage/>
+        <Groceries/>
   )
 }
 
