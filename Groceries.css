@@ -1,4 +1,4 @@
-/* Desktop1 */
+/* Slide1691 */
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
 
@@ -17,79 +17,91 @@ p {
   align-items: flex-start;
 }
 
-.flex-row {
+.flex-row-vend {
   display: flex;
   flex-direction: row;
+  align-items: flex-end;
 }
 
-.desktop-1 {
+.slide-1691 {
   position: relative;
-  padding: 25px 53px 37px 50px;
+  padding: 67px 49px 45px 60px;
   box-sizing: border-box;
   background-color: rgba(252, 240, 234, 1);
   width: 1920px;
-  height: 1040px;
+  height: 1080px;
 }
 
-.rectangle-39 {
-  background-color: rgba(231, 186, 186, 1);
-  width: 70px;
+.group-428 {
+  padding: 38px 14px 869px 24px;
+  margin-right: 40px;
+  box-sizing: border-box;
   border-radius: 32px;
-  margin-right: 49px;
+  background-color: rgba(231, 186, 186, 1);
+  width: 61px;
+  height: 100%;
+}
+
+.polygon-1 {
+  width: 21px;
   height: 100%;
 }
 
 .rectangle-38 {
   background-color: rgba(217, 239, 206, 1);
-  width: 827px;
-  height: 929px;
+  width: 823px;
+  height: 898px;
   border-radius: 32px;
-  margin-right: 68px;
+  margin-right: 55px;
 }
 
 .rectangle-37 {
   background-color: rgba(199, 228, 237, 1);
-  width: 801px;
-  height: 929px;
+  width: 830px;
+  height: 896px;
   border-radius: 32px;
-}
-
-.group-1 {
-  position: absolute;
-  top: 29px;
-  left: 503px;
-  padding: 14px 19px 12px 19px;
-  box-sizing: border-box;
-  border-radius: 12px;
-  background-color: rgba(183, 221, 164, 1);
-  width: 157px;
-  height: 61px;
-}
-
-.txt-666 {
-  font-size: 27px;
-  font-family: Roboto, sans-serif;
-  font-weight: 400;
-  color: rgba(0, 0, 0, 1);
-  word-wrap: break-word;
 }
 
 .group-2 {
   position: absolute;
-  top: 26px;
-  left: 1400px;
-  padding: 16px 22px 15px 24px;
+  top: 82px;
+  left: 496px;
+  padding: 12px 18px 10px 19px;
   box-sizing: border-box;
   border-radius: 12px;
-  background-color: rgba(147, 209, 228, 1);
-  width: 135px;
-  height: 66px;
+  background-color: rgba(183, 221, 164, 1);
+  width: 156px;
+  height: 56px;
 }
 
-.txt-666 {
+.txt-917 {
   font-size: 27px;
   font-family: Roboto, sans-serif;
   font-weight: 400;
   color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: 32px;
+  word-wrap: break-word;
+}
+
+.group-1 {
+  position: absolute;
+  top: 82px;
+  left: 1387px;
+  padding: 13px 22px 13px 24px;
+  box-sizing: border-box;
+  border-radius: 12px;
+  background-color: rgba(147, 209, 228, 1);
+  width: 136px;
+  height: 56px;
+}
+
+.txt-356 {
+  font-size: 27px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 1);
+  width: 88px;
+  height: 28px;
   word-wrap: break-word;
 }
