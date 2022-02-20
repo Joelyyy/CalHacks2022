@@ -1,14 +1,9 @@
-/* Homepage */
+/* Frame15 */
 
 @import url("https://fonts.googleapis.com/css2?family=ABeeZee:wght@400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
 
 p {
   margin: 0;
-}
-
-.clip-contents {
-  overflow: hidden;
 }
 
 .flex-col-hstart-vstart {
@@ -40,16 +35,23 @@ p {
   justify-content: center;
 }
 
-.homepage {
-  position: relative;
-  padding: 28px 32px 31px 30px;
-  box-sizing: border-box;
-  background-color: rgba(252, 240, 234, 1);
+.frame-15 {
   width: 1440px;
   height: 1024px;
 }
 
-.group-840 {
+. {
+  width: 100%;
+  height: 100%;
+}
+
+.homepage {
+  background-color: rgba(252, 240, 234, 1);
+  width: 100%;
+  height: 100%;
+}
+
+.group-1044 {
   padding: 40px 14px 916px 32px;
   margin-right: 37px;
   box-sizing: border-box;
@@ -64,13 +66,13 @@ p {
   height: 100%;
 }
 
-.group-569 {
+.group-427 {
   margin-right: 111px;
   box-sizing: border-box;
   height: fit-content;
 }
 
-.group-633 {
+.group-493 {
   padding: 5px 5px 7px 6px;
   margin-bottom: 8px;
   box-sizing: border-box;
@@ -105,13 +107,13 @@ p {
   height: 100%;
 }
 
-.group-512 {
+.group-058 {
   margin-bottom: 9px;
   box-sizing: border-box;
   width: fit-content;
 }
 
-.txt-426 {
+.txt-761 {
   font-size: 25px;
   font-family: ABeeZee, sans-serif;
   font-weight: 400;
@@ -123,7 +125,7 @@ p {
   margin-right: 70px;
 }
 
-.txt-554 {
+.txt-992 {
   font-size: 25px;
   font-family: ABeeZee, sans-serif;
   font-weight: 400;
@@ -135,7 +137,7 @@ p {
   margin-right: 70px;
 }
 
-.txt-926 {
+.txt-630 {
   font-size: 25px;
   font-family: ABeeZee, sans-serif;
   font-weight: 400;
@@ -147,7 +149,7 @@ p {
   margin-right: 76px;
 }
 
-.txt-529 {
+.txt-764 {
   font-size: 25px;
   font-family: ABeeZee, sans-serif;
   font-weight: 400;
@@ -159,7 +161,7 @@ p {
   margin-right: 77px;
 }
 
-.txt-976 {
+.txt-067 {
   font-size: 25px;
   font-family: ABeeZee, sans-serif;
   font-weight: 400;
@@ -171,7 +173,7 @@ p {
   margin-right: 79px;
 }
 
-.txt-815 {
+.txt-1091 {
   font-size: 25px;
   font-family: ABeeZee, sans-serif;
   font-weight: 400;
@@ -183,7 +185,7 @@ p {
   margin-right: 76px;
 }
 
-.txt-262 {
+.txt-338 {
   font-size: 25px;
   font-family: ABeeZee, sans-serif;
   font-weight: 400;
@@ -201,18 +203,21 @@ p {
   border-radius: 19px;
 }
 
-.group-1051 {
-  position: relative;
+.group-795 {
   border-radius: 16px;
   background-color: rgba(255, 255, 255, 1);
   width: 262px;
   height: 81px;
 }
 
-.txt-487 {
-  position: absolute;
-  top: 8px;
-  left: 48px;
+.rectangle-10 {
+  background-color: rgba(255, 216, 157, 1);
+  width: 246px;
+  height: 38px;
+  border-radius: 16px;
+}
+
+.txt-8210 {
   font-size: 28px;
   font-family: ABeeZee, sans-serif;
   font-weight: 400;
@@ -222,17 +227,7 @@ p {
   word-wrap: break-word;
 }
 
-.rectangle-10 {
-  position: absolute;
-  top: 7px;
-  left: 8px;
-  background-color: rgba(255, 216, 157, 1);
-  width: 246px;
-  height: 38px;
-  border-radius: 16px;
-}
-
-.group-460 {
+.group-557 {
   padding: 6px 6px 2px 6px;
   box-sizing: border-box;
   border-radius: 16px;
@@ -250,7 +245,7 @@ p {
   height: 100%;
 }
 
-.txt-259 {
+.txt-248 {
   font-size: 30px;
   font-family: ABeeZee, sans-serif;
   font-weight: 400;
@@ -260,14 +255,40 @@ p {
   word-wrap: break-word;
 }
 
-.txt-2592 {
+.txt-2482 {
   font-size: 28px;
 }
 
-.group-488 {
-  position: absolute;
-  top: 637px;
-  none: 0px;
+.group-818 {
+  border-radius: 35px;
+  background-color: rgba(255, 255, 255, 1);
+  width: 296px;
+  height: 937px;
+}
+
+.rectangle-6 {
+  border-radius: 32px;
+  background-color: rgba(228, 233, 255, 1);
+}
+
+.rectangle-19 {
+  width: 24px;
+  height: 24px;
+}
+
+.rectangle-28 {
+  width: 16.15px;
+  height: 2.08px;
+}
+
+.rectangle-29 {
+  background-color: rgba(187, 193, 246, 1);
+  width: 15px;
+  height: 2px;
+  border-radius: 3px;
+}
+
+.group-5102 {
   padding: 9px 8px 6px 7px;
   box-sizing: border-box;
   border-radius: 34px;
@@ -280,133 +301,5 @@ p {
   background-color: rgba(255, 241, 206, 1);
   width: 954px;
   border-radius: 32px;
-  height: 100%;
-}
-
-.group-7101 {
-  position: absolute;
-  top: 55px;
-  none: 0px;
-  border-radius: 35px;
-  background-color: rgba(255, 255, 255, 1);
-  width: 296px;
-  height: 937px;
-}
-
-.group-10 {
-  position: absolute;
-  top: 154px;
-  left: 31px;
-  border-radius: 5px;
-  background-color: rgba(254, 254, 254, 1);
-  width: 16px;
-  height: 16px;
-}
-
-.rectangle-28 {
-  position: absolute;
-  top: 3px;
-  left: 9px;
-  background-color: rgba(187, 193, 246, 1);
-  transform: rotate(-90.1deg);
-  width: 9.82px;
-  height: 1.98px;
-  border-radius: 3px;
-}
-
-.rectangle-29 {
-  position: absolute;
-  top: 7px;
-  left: 3px;
-  background-color: rgba(187, 193, 246, 1);
-  width: 10px;
-  height: 2px;
-  border-radius: 3px;
-}
-
-.txt-752 {
-  position: absolute;
-  top: 123px;
-  left: 57px;
-  font-size: 14px;
-  font-family: ABeeZee, sans-serif;
-  font-weight: 400;
-  color: rgba(0, 0, 0, 1);
-  width: 97px;
-  height: 35px;
-  word-wrap: break-word;
-}
-
-.txt-1060 {
-  position: absolute;
-  top: 89px;
-  left: 57px;
-  font-size: 14px;
-  font-family: Roboto, sans-serif;
-  font-weight: 400;
-  color: rgba(0, 0, 0, 1);
-  width: 97px;
-  height: 35px;
-  word-wrap: break-word;
-}
-
-.txt-994 {
-  position: absolute;
-  top: 52px;
-  left: 57px;
-  font-size: 14px;
-  font-family: Roboto, sans-serif;
-  font-weight: 400;
-  color: rgba(0, 0, 0, 1);
-  width: 97px;
-  height: 35px;
-  word-wrap: break-word;
-}
-
-.rectangle-13 {
-  position: absolute;
-  top: 120px;
-  left: 31px;
-  background-color: rgba(254, 254, 254, 1);
-  width: 16px;
-  height: 16px;
-  border-radius: 5px;
-}
-
-.rectangle-12 {
-  position: absolute;
-  top: 86px;
-  left: 31px;
-  background-color: rgba(254, 254, 254, 1);
-  width: 16px;
-  height: 16px;
-  border-radius: 5px;
-}
-
-.rectangle-11 {
-  position: absolute;
-  top: 52px;
-  left: 31px;
-  background-color: rgba(254, 254, 254, 1);
-  width: 16px;
-  height: 16px;
-  border-radius: 5px;
-}
-
-.rectangle-6 {
-  position: absolute;
-  top: 7px;
-  left: 10px;
-  padding: 146px 248px 762px 27px;
-  box-sizing: border-box;
-  border-radius: 32px;
-  background-color: rgba(228, 233, 255, 1);
-  width: 278px;
-  height: 923px;
-}
-
-.rectangle-291 {
-  background-color: rgba(196, 196, 196, 1);
-  width: 1px;
   height: 100%;
 }
