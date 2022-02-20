@@ -1,0 +1,131 @@
+/* Slide1691 */
+
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee:wght@400&display=swap");
+
+p {
+  margin: 0;
+}
+
+.clip-contents {
+  overflow: hidden;
+}
+
+.flex-col-hstart-vstart {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-col-hcenter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.slide-1691 {
+  padding: 56px 91px 56px 48px;
+  box-sizing: border-box;
+  background-color: rgba(252, 240, 234, 1);
+  width: 1920px;
+  height: 1080px;
+}
+
+.group-153 {
+  padding: 36px 25px 871px 33px;
+  margin-right: 56px;
+  box-sizing: border-box;
+  border-radius: 32px;
+  background-color: rgba(231, 186, 186, 1);
+  width: 81px;
+  height: 100%;
+}
+
+.polygon-3 {
+  width: 21px;
+  height: 100%;
+}
+
+.group-158 {
+  padding: 24px 36px 45px 36px;
+  margin-right: 82px;
+  box-sizing: border-box;
+  border-radius: 35px;
+  background-color: rgba(236, 233, 255, 1);
+  height: fit-content;
+}
+
+.group-622 {
+  padding: 22px 67px 22px 69px;
+  margin-bottom: 39px;
+  box-sizing: border-box;
+  border-radius: 25px;
+  background-color: rgba(191, 177, 229, 1);
+  height: 123px;
+  width: fit-content;
+}
+
+.txt-743 {
+  font-size: 64px;
+  font-family: ABeeZee, sans-serif;
+  font-weight: 400;
+  color: rgba(68, 47, 128, 1);
+  word-wrap: break-word;
+}
+
+.rectangle-53 {
+  background: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 1),
+      rgba(255, 255, 255, 1)
+    ),
+    linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1)),
+    linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1));
+  height: 718px;
+  border-radius: 150px;
+  width: 100%;
+}
+
+.group-5109 {
+  padding: 29px 25px 45px 47px;
+  box-sizing: border-box;
+  border-radius: 35px;
+  background-color: rgba(221, 239, 255, 1);
+  height: fit-content;
+}
+
+.group-323 {
+  padding: 22px 104px 22px 105px;
+  margin-bottom: 34px;
+  box-sizing: border-box;
+  border-radius: 25px;
+  background-color: rgba(98, 153, 204, 1);
+  height: 123px;
+  width: fit-content;
+}
+
+.txt-278 {
+  font-size: 64px;
+  font-family: ABeeZee, sans-serif;
+  font-weight: 400;
+  color: rgba(5, 36, 66, 1);
+  word-wrap: break-word;
+}
+
+.rectangle-53 {
+  background: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 1),
+      rgba(255, 255, 255, 1)
+    ),
+    linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1)),
+    linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1));
+  width: 706px;
+  height: 718px;
+  border-radius: 150px;
+}

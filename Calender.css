@@ -1,0 +1,137 @@
+/* Calender */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+
+p {
+  margin: 0;
+}
+
+.clip-contents {
+  overflow: hidden;
+}
+
+.flex-col-hstart-vstart {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.calender {
+  position: relative;
+  background-color: rgba(252, 240, 234, 1);
+  width: 1920px;
+  height: 1080px;
+}
+
+.group-584 {
+  position: absolute;
+  top: 50px;
+  none: 0px;
+  width: 1746px;
+  height: 942px;
+}
+
+.rectangle-36 {
+  width: 128px;
+  margin-right: 90px;
+  height: 100%;
+}
+
+.group-058 {
+  padding: 44px 30px 16px 36px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  background-color: rgba(231, 186, 186, 1);
+  height: 100%;
+}
+
+.txt-135 {
+  font-size: 50px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgba(186, 76, 76, 1);
+  width: 416px;
+  height: 59px;
+  word-wrap: break-word;
+  margin-bottom: 40px;
+}
+
+.group-459 {
+  padding: 14px 166px 704px 135px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  background-color: rgba(255, 249, 249, 1);
+}
+
+.txt-953 {
+  font-size: 30px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgba(186, 76, 76, 1);
+  width: 42px;
+  height: 61px;
+  word-wrap: break-word;
+  margin-right: 147px;
+}
+
+.txt-991 {
+  font-size: 30px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgba(186, 76, 76, 1);
+  width: 42px;
+  height: 61px;
+  word-wrap: break-word;
+  margin-right: 137px;
+}
+
+.txt-768 {
+  font-size: 30px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgba(186, 76, 76, 1);
+  width: 42px;
+  height: 61px;
+  word-wrap: break-word;
+  margin-right: 139px;
+}
+
+.txt-807 {
+  font-size: 30px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgba(186, 76, 76, 1);
+  width: 42px;
+  height: 61px;
+  word-wrap: break-word;
+  margin-right: 146px;
+}
+
+.txt-620 {
+  font-size: 30px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgba(186, 76, 76, 1);
+  width: 42px;
+  height: 61px;
+  word-wrap: break-word;
+}
+
+.vector-1 {
+  position: absolute;
+  top: 124px;
+  left: 41px;
+  width: 62.27px;
+  height: 59.5px;
+}

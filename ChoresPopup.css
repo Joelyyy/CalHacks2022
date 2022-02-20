@@ -1,0 +1,116 @@
+/* Slide1694 */
+
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee:wght@400&display=swap");
+
+p {
+  margin: 0;
+}
+
+.clip-contents {
+  overflow: hidden;
+}
+
+.flex-col-hstart-vstart {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.slide-1694 {
+  padding: 263px 506px 238px 459px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0);
+  width: 1920px;
+  height: 1080px;
+}
+
+.group-363 {
+  padding: 64px 151px 43px 75px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  background-color: rgba(231, 186, 186, 1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.group-037 {
+  padding: 15px 485px 14px 24px;
+  margin-bottom: 32px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  background-color: rgba(255, 242, 242, 1);
+  height: 91px;
+  width: fit-content;
+}
+
+.txt-368 {
+  font-size: 50px;
+  font-family: ABeeZee, sans-serif;
+  font-weight: 400;
+  color: rgba(198, 112, 112, 1);
+  word-wrap: break-word;
+}
+
+.txt-946 {
+  font-size: 40px;
+  font-family: ABeeZee, sans-serif;
+  font-weight: 400;
+  color: rgba(198, 112, 112, 1);
+  width: 281px;
+  height: 55px;
+  word-wrap: break-word;
+  margin-bottom: 34px;
+}
+
+.group-716 {
+  margin-bottom: 133px;
+  box-sizing: border-box;
+  width: fit-content;
+}
+
+.ellipse-5 {
+  background-color: rgba(228, 233, 255, 1);
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  margin-right: 17px;
+}
+
+.txt-434 {
+  font-size: 40px;
+  font-family: ABeeZee, sans-serif;
+  font-weight: 400;
+  color: rgba(198, 112, 112, 1);
+  width: 281px;
+  height: 55px;
+  word-wrap: break-word;
+}
+
+.group-304 {
+  padding: 11px 40px 10px 41px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  background-color: rgba(189, 221, 231, 1);
+  height: 68px;
+  width: fit-content;
+}
+
+.txt-305 {
+  font-size: 40px;
+  font-family: ABeeZee, sans-serif;
+  font-weight: 400;
+  color: rgba(98, 153, 204, 1);
+  width: 108px;
+  height: 45px;
+  word-wrap: break-word;
+}
