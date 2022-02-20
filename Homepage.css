@@ -1,5 +1,7 @@
 /* Slide1691 */
 
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee:wght@400&display=swap");
+
 p {
   margin: 0;
 }
@@ -28,44 +30,89 @@ p {
 .slide-1691 {
   padding: 34px 47px 52px 33px;
   box-sizing: border-box;
-  background-color: rgba(255, 235, 235, 1);
+  background-color: rgba(255, 241, 241, 1);
   width: 1920px;
   height: 1080px;
 }
 
-.rectangle-1 {
+.group-4610 {
+  padding: 25px 17px 906px 95px;
+  margin-right: 40px;
+  box-sizing: border-box;
+  border-radius: 30px;
   background-color: rgba(231, 179, 179, 1);
   width: 146px;
-  border-radius: 30px;
-  margin-right: 42px;
   height: 100%;
 }
 
-.group-956 {
+.polygon-1 {
+  width: 31.84px;
+  height: 100%;
+}
+
+.group-810 {
   margin-right: 38px;
   box-sizing: border-box;
   height: 100%;
 }
 
 .rectangle-2 {
-  background-color: rgba(208, 230, 255, 1);
-  height: 480px;
+  background-color: rgba(222, 237, 255, 1);
+  width: 1212px;
+  height: 505px;
   border-radius: 30px;
-  margin-bottom: 60px;
-  width: 100%;
+  margin-bottom: 35px;
 }
 
-.rectangle-3 {
-  background-color: rgba(255, 232, 198, 1);
-  width: 1210px;
+.group-891 {
+  padding: 17px 356px 355px 350px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  background-color: rgba(255, 238, 211, 1);
   height: 452px;
-  border-radius: 30px;
+  width: fit-content;
 }
 
-.rectangle-4 {
-  background-color: rgba(244, 229, 255, 1);
-  width: 400px;
-  border-radius: 30px;
+.group-979 {
+  padding: 9px 117px 9px 118px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  background-color: rgba(255, 210, 168, 1);
+  width: 502px;
   height: 100%;
+}
+
+.txt-603 {
+  font-size: 48px;
+  font-family: ABeeZee, sans-serif;
+  font-weight: 400;
+  color: rgba(105, 60, 18, 1);
+  word-wrap: break-word;
+}
+
+.group-023 {
+  padding: 29px 94px 902px 93px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  background-color: rgba(246, 234, 255, 1);
+  width: 400px;
+  height: 100%;
+}
+
+.group-999 {
+  padding: 7px 56px 6px 57px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  background-color: rgba(180, 134, 202, 1);
+  width: 211px;
+  height: 100%;
+}
+
+.txt-1066 {
+  font-size: 36px;
+  font-family: ABeeZee, sans-serif;
+  font-weight: 400;
+  color: rgba(55, 21, 99, 1);
+  word-wrap: break-word;
 }
 
