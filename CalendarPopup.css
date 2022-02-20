@@ -1,13 +1,9 @@
-/* Slide1693 */
+/* Calender */
 
-@import url("https://fonts.googleapis.com/css2?family=ABeeZee:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
 
 p {
   margin: 0;
-}
-
-.clip-contents {
-  overflow: hidden;
 }
 
 .flex-col-hstart-vstart {
@@ -17,105 +13,121 @@ p {
   align-items: flex-start;
 }
 
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
 .flex-col {
   display: flex;
   flex-direction: column;
 }
 
-.flex-row-vcenter {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-}
-
-.slide-1693 {
-  padding: 284px 536px 217px 429px;
-  box-sizing: border-box;
-  background-color: rgba(255, 255, 255, 0);
+.calender {
+  position: relative;
+  background-color: rgba(252, 240, 234, 1);
   width: 1920px;
   height: 1080px;
 }
 
-.group-463 {
-  padding: 72px 121px 87px 105px;
-  box-sizing: border-box;
-  border-radius: 30px;
-  background-color: rgba(231, 186, 186, 1);
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+.group-842 {
+  position: absolute;
+  top: 50px;
+  none: 0px;
+  width: 1746px;
+  height: 942px;
 }
 
-.group-1041 {
-  padding: 15px 485px 14px 24px;
-  margin-bottom: 69px;
-  box-sizing: border-box;
-  border-radius: 30px;
-  background-color: rgba(255, 242, 242, 1);
-  height: 91px;
-  width: fit-content;
-}
-
-.txt-759 {
-  font-size: 50px;
-  font-family: ABeeZee, sans-serif;
-  font-weight: 400;
-  color: rgba(198, 112, 112, 1);
-  word-wrap: break-word;
-}
-
-.group-042 {
-  margin-bottom: 61px;
-  box-sizing: border-box;
-  width: fit-content;
-}
-
-.group-7101 {
-  padding: 17px 33px 23px 24px;
-  margin-right: 59px;
-  box-sizing: border-box;
-  border-radius: 30px;
-  background-color: rgba(255, 242, 242, 1);
-  width: 282px;
+.rectangle-36 {
+  width: 128px;
+  margin-right: 90px;
   height: 100%;
 }
 
-.txt-759 {
-  font-size: 50px;
-  font-family: ABeeZee, sans-serif;
-  font-weight: 400;
-  color: rgba(198, 112, 112, 1);
-  word-wrap: break-word;
-}
-
-.ellipse-5 {
-  background-color: rgba(228, 233, 255, 1);
-  width: 60px;
-  height: 60px;
-  border-radius: 30px;
-  margin-right: 23px;
-}
-
-.txt-887 {
-  font-size: 50px;
-  font-family: ABeeZee, sans-serif;
-  font-weight: 400;
-  color: rgba(198, 112, 112, 1);
-  word-wrap: break-word;
-  margin-right: 39px;
-}
-
-.group-007 {
-  padding: 16px 42px 15px 43px;
+.group-961 {
+  padding: 44px 30px 16px 36px;
   box-sizing: border-box;
   border-radius: 30px;
-  background-color: rgba(189, 221, 231, 1);
-  height: 93px;
-  width: fit-content;
+  background-color: rgba(231, 186, 186, 1);
+  height: 100%;
 }
 
-.txt-904 {
+.txt-089 {
   font-size: 50px;
-  font-family: ABeeZee, sans-serif;
+  font-family: Roboto, sans-serif;
   font-weight: 400;
-  color: rgba(98, 153, 204, 1);
+  color: rgba(186, 76, 76, 1);
+  width: 416px;
+  height: 59px;
   word-wrap: break-word;
+  margin-bottom: 40px;
+}
+
+.group-218 {
+  padding: 14px 166px 704px 135px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  background-color: rgba(255, 249, 249, 1);
+}
+
+.txt-274 {
+  font-size: 30px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgba(186, 76, 76, 1);
+  width: 42px;
+  height: 61px;
+  word-wrap: break-word;
+  margin-right: 147px;
+}
+
+.txt-727 {
+  font-size: 30px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgba(186, 76, 76, 1);
+  width: 42px;
+  height: 61px;
+  word-wrap: break-word;
+  margin-right: 137px;
+}
+
+.txt-115 {
+  font-size: 30px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgba(186, 76, 76, 1);
+  width: 42px;
+  height: 61px;
+  word-wrap: break-word;
+  margin-right: 139px;
+}
+
+.txt-323 {
+  font-size: 30px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgba(186, 76, 76, 1);
+  width: 42px;
+  height: 61px;
+  word-wrap: break-word;
+  margin-right: 146px;
+}
+
+.txt-576 {
+  font-size: 30px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgba(186, 76, 76, 1);
+  width: 42px;
+  height: 61px;
+  word-wrap: break-word;
+}
+
+.vector-1 {
+  position: absolute;
+  top: 124px;
+  left: 41px;
+  width: 62.27px;
+  height: 59.5px;
 }
