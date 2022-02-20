@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+
+    <h2>Grocery List</h2>
+    <input type="text" id="ItemInput" placeholder="Grocery item">
+    <button onclick="addLi()">Add to list</button>
+    <ul id="list"></ul>
+
+    <script>
+        function addLi()
+        {
+            var delButton = document.createElement("button")
+                delButton.appendChild(document.createTextNode("x"));
+            var ItemValue = document.getElementById("ItemInput").value,
+                listNode = document.getElementById("list")
+                liNode = document.createElement('Li'),
+                txtNode = document.createTextNode(ItemInput.value);
+                liNode.appendChild(txtNode);
+                liNode.appendChild(delButton);
+                listNode.appendChild(liNode);
+                delButton.addEventListener('click', event => listNode.removeChild(listNode.querySelector("Li")));
+        }
+
+    </script>
+
+
+</html>
